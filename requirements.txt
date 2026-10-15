@@ -3,3 +3,5 @@ fastapi
 uvicorn[standard]
 psycopg[binary]
 python-dotenv
+pytest
+httpx
